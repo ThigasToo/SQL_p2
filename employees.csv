@@ -1,0 +1,12 @@
+﻿emp_id;emp_name;position;salary;branch_id
+E101;John Doe;Clerk;6000000;B001
+E102;Jane Smith;Clerk;4500000;B002
+E103;Mike Johnson;Librarian;5500000;B001
+E104;Emily Davis;Assistant;4000000;B001
+E105;Sarah Brown;Assistant;4200000;B001
+E106;Michelle Ramirez;Assistant;4300000;B001
+E107;Michael Thompson;Clerk;6200000;B005
+E108;Jessica Taylor;Clerk;4600000;B004
+E109;Daniel Anderson;Manager;5700000;B003
+E110;Laura Martinez;Manager;4100000;B005
+E111;Christopher Lee;Assistant;6500000;B005
