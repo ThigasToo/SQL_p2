@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 Este projeto implementa um **Sistema de Gerenciamento de Biblioteca** utilizando SQL.  
-O arquivo `library_sql_p2.sql` contém a criação de tabelas, inserção de dados, relacionamentos com **chaves estrangeiras**, consultas, **procedures** e relatórios para simular o funcionamento de uma biblioteca.
+O arquivo `library_sql_p2.sql` contém a criação de tabelas, inserção de dados, relacionamentos com **chaves estrangeiras**, consultas, **procedures** e relatórios para simular o funcionamento de uma biblioteca. Foram utilizados os arquivos csv no repositório - return_status, books, issued_status, branch, employees, members. 
 
 ## 🛠️ Estrutura do Arquivo
 O script SQL inclui:
